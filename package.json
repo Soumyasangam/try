@@ -1,7 +1,7 @@
 {
   "name": "webapp",
   "version": "1.0.0",
-  "description": "first web app for students",
+  "description": "first web app for customers",
   "main": "create_db.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -15,7 +15,7 @@
     "start": "node server2.js"
   },
   "keywords": [],
-  "author": "K L Vijeth",
+  "author": "ssss",
   "license": "ISC",
   "engines": {
     "node": "8.10"
